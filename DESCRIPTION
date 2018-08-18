@@ -1,0 +1,11 @@
+Package: rTestSample
+Title: Sample R project with test
+Description: This is a sample (empty) R package.
+Author: Roland Ewald <roland.ewald@acm.org>
+Maintainer: Roland Ewald <roland.ewald@acm.org>
+License: Unlimited
+Version: 0.0.1
+Depends:
+    R (>= 3.1.0),
+Suggests:
+    testthat,
